@@ -11,5 +11,5 @@ Classic Memory Game
 
 ### External Dependencies
 
-* [Google Fonts] (https://fonts.googleapis.com/css?family=Coda)
-* [Bootstrap] (https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css)
+* [Google Fonts](https://fonts.googleapis.com/css?family=Coda/)
+* [Bootstrap](https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css/)
